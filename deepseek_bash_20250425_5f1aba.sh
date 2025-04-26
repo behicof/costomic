@@ -1,0 +1,1 @@
+pip install xgboost==1.7.6 joblib==1.3.2
